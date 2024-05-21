@@ -1,6 +1,6 @@
 # 🃏 Joke Fetcher Script
 
-This repository contains scripts in *Bash* and *Python* to fetch jokes from the [icanhazdadjoke](https://icanhazdadjoke.com/api) API based on user-defined search terms. The scripts fetch a new set of jokes every 15 seconds for 1 minute, displaying each joke individually.
+This repository contains scripts in *Bash* to fetch jokes from the [icanhazdadjoke](https://icanhazdadjoke.com/api) API based on user-defined search terms. The scripts fetch a new set of jokes every 15 seconds for 1 minute, displaying each joke individually.
 
 ## 📜 Problem Statement
 
@@ -21,7 +21,6 @@ Write a script to call the https://icanhazdadjoke.com/api endpoint for a new set
 
 ### Languages
 - [Bash](#bash-script-solution)
-- [Python](#python-script-solution)
 
 ## 🐚 Bash Script Solution
 
